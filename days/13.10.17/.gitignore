@@ -1,0 +1,3 @@
+ignore*
+/ne/**/*.tmp
+!/ne/file2.tmp
